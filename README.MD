@@ -1,4 +1,5 @@
 Bengali Lexical Simplification
+Bengali lexical simplification is an NLP task that replaces complex words with simpler alternatives to enhance readability. It involves detecting difficult words using factors like frequency, length, and syllable count. Pre-trained models like XLM-RoBERTa, mBERT, and Bangla BERT generate simpler substitutes. A ranking mechanism ensures the best replacement based on semantic similarity and linguistic constraints. After comparing, Precision, Recall, F1-score, and Accuracy of the model are calculated to evaluate performance. This process improves accessibility for language learners, children, and individuals with reading difficulties.
 
 # Overview
 
